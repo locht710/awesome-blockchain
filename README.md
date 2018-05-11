@@ -25,25 +25,35 @@ Contributions most welcome.
 * [Udemy - The Complete Course On Understanding Blockchain Technology](https://www.udemy.com/understanding-blockchain-technology)
 ## Books
 * [Blockchain: Discover the Technology behind Smart Contracts, Wallets, Mining and Cryptocurrency (including Bitcoin, Ethereum, Ripple, Digibyte and Others)](https://www.amazon.com/Blockchain-Technology-Contracts-Cryptocurrency-including-ebook/dp/B07B4FCQ6H) - In addition to blockchain technology, this book also explains the Internet of Things, smart contracts, the Ledger of Things, as well as the application of these technologies.
-* [Blockchain Technology Explained: The Ultimate Beginner’s Guide About Blockchain Wallet, Mining, Bitcoin, Ethereum, Litecoin, Zcash, Monero, Ripple, Dash, IOTA And Smart Contracts](https://www.amazon.com/Blockchain-Technology-Explained-Beginners-Contracts/dp/1981522026) - Instead of talking about investing, this book will focus on how blockchain technology works and how it might be used in the future
+* [Blockchain Technology Explained: The Ultimate Beginner’s Guide About Blockchain Wallet, Mining, Bitcoin, Ethereum, Litecoin, Zcash, Monero, Ripple, Dash, IOTA And Smart Contracts](https://www.amazon.com/Blockchain-Technology-Explained-Beginners-Contracts/dp/1981522026) - Instead of talking about investing, this book will focus on how blockchain technology works and how it might be used in the future.
 * [Blockchain Basics: A Non-Technical Introduction in 25 Steps](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038) - In 25 concise steps, you will learn the basics of blockchain technology. No mathematical formulas, program code, or computer science jargon are used. No previous knowledge in computer science, mathematics, programming, or cryptography is required. Terminology is explained through pictures, analogies, and metaphors.
 * [Blockchain for Dummies from IBM](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN#) - Everything you need to know about what blockchain is, how it works, and how you can get started building a blockchain network today.
 ## Videos
-* [Edureka - What is Blockchain](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1) - This "What Is Blockchain" video by Edureka will help you grasp the basic concepts of Blockchain Technology and how Bitcoin's Blockchain solves the issues in the current banking system
+* [Edureka - What is Blockchain](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1) - This "What Is Blockchain" video by Edureka will help you grasp the basic concepts of Blockchain Technology and how Bitcoin's Blockchain solves the issues in the current banking system.
 * [Mobifish - Blockchain tutorial](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x)
 ## Forums
 * [Reddit - Crypto currency](https://www.reddit.com/r/CryptoCurrency/)
 ## Programming
-
+* [Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners](https://www.amazon.com/Introducing-Ethereum-Solidity-Foundations-Cryptocurrency/dp/1484225341) - Learn how to use Solidity and the Ethereum project.
+* [Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388) - Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the knowledge you need to participate in the internet of money. 
+* [Blockchain: The Blockchain For Beginners Guide To Blockchain Technology And Leveraging Blockchain Programming](https://www.amazon.com/Blockchain-Beginners-Technology-Leveraging-Programming/dp/1546772804)
 ## Examples
-
+* [Creating Your First Blockchain with Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 ## Use-case
-
+* [Popular Use Cases of Blockchain Technology You Need to Know](https://hackernoon.com/popular-use-cases-of-blockchain-technology-you-need-to-know-df4e1905d373)
+* [Blockchain for 2018 and Beyond: A (growing) list of blockchain use cases](https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99)
+* [IBM Blockchain use cases](https://www.ibm.com/blockchain/use-cases/)
+* [Blockchain technology use cases in financial services](https://www2.deloitte.com/nl/nl/pages/financial-services/articles/5-blockchain-use-cases-in-financial-services.html)
 ## News
-
+* [CNN Blockchain News](https://www.ccn.com/blockchain-news/)
+* [CoinTelegraph](https://cointelegraph.com/tags/blockchain)
+* [Coindesk](https://www.coindesk.com/)
 ## Interview
-
+* [Top 55 Blockchain Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/blockchain-interview-questions/)
+* [Blockchain Interview Questions](https://mindmajix.com/blockchain-interview-questions)
+* [250+ Blockchain Interview Questions](https://www.wisdomjobs.com/e-university/blockchain-interview-questions.html)
 ## Talks
-
+* [How the blockchain is changing money and business](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business)
+* [How the blockchain will radically transform the economy](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy)
 ## Misc
-
+* [IBM Blockchain reference architecture](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/0_1)
