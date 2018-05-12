@@ -10,11 +10,12 @@ Contributions most welcome.
 - [Videos](#videos)
 - [Forums](#forums)
 - [Programming](#programming)
-- [Examples](#examples)
 - [Use-case](#usecase)
+- [Tutorial](#tutorial)
 - [News](#news)
 - [Interview](#interview)
 - [Talks](#talks)
+- [Products](#talks)
 - [Misc](#misc)
 
 ## Courses
@@ -33,17 +34,22 @@ Contributions most welcome.
 * [Mobifish - Blockchain tutorial](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x)
 ## Forums
 * [Reddit - Crypto currency](https://www.reddit.com/r/CryptoCurrency/)
+* [Bitcointalk](https://bitcointalk.org)
 ## Programming
 * [Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners](https://www.amazon.com/Introducing-Ethereum-Solidity-Foundations-Cryptocurrency/dp/1484225341) - Learn how to use Solidity and the Ethereum project.
 * [Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388) - Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the knowledge you need to participate in the internet of money. 
 * [Blockchain: The Blockchain For Beginners Guide To Blockchain Technology And Leveraging Blockchain Programming](https://www.amazon.com/Blockchain-Beginners-Technology-Leveraging-Programming/dp/1546772804)
-## Examples
-* [Creating Your First Blockchain with Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 ## Use-case
 * [Popular Use Cases of Blockchain Technology You Need to Know](https://hackernoon.com/popular-use-cases-of-blockchain-technology-you-need-to-know-df4e1905d373)
 * [Blockchain for 2018 and Beyond: A (growing) list of blockchain use cases](https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99)
 * [IBM Blockchain use cases](https://www.ibm.com/blockchain/use-cases/)
 * [Blockchain technology use cases in financial services](https://www2.deloitte.com/nl/nl/pages/financial-services/articles/5-blockchain-use-cases-in-financial-services.html)
+## Tutorial
+* [Creating Your First Blockchain with Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
+* [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+* [A Beginner’s Guide to Blockchain Technology](https://www.edureka.co/blog/blockchain-tutorial)
+* [Dapps for Beginners](https://dappsforbeginners.wordpress.com/tutorials/)
+* [A developer-oriented series about Bitcoin](https://davidederosa.com/basic-blockchain-programming/)
 ## News
 * [CNN Blockchain News](https://www.ccn.com/blockchain-news/)
 * [CoinTelegraph](https://cointelegraph.com/tags/blockchain)
@@ -55,5 +61,16 @@ Contributions most welcome.
 ## Talks
 * [How the blockchain is changing money and business](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business)
 * [How the blockchain will radically transform the economy](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy)
+## Products
+* [CryptoKitties](https://www.cryptokitties.co)
+* [Bitcoin](https://bitcoin.org)
+* [Ethereum](https://www.ethereum.org)
 ## Misc
 * [IBM Blockchain reference architecture](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/0_1)
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+* [Ethereum: A Next Generation Smart Contract & Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [Ethereum: A Secure Decentralized Generalized Transaction Ledger](http://gavwood.com/Paper.pdf)
+* [Sidechains:Enabling Blockchain Innovations with Pegged Sidechains](http://www.blockstream.com/sidechains.pdf)
+
+
+
